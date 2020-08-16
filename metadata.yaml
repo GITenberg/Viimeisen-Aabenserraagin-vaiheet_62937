@@ -1,16 +1,21 @@
 _repo: Viimeisen-Aabenserraagin-vaiheet_62937
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mikkola, Jooseppi Julius
     gutenberg_agent_id: '52194'
     url: http://www.gutenberg.org/2009/agents/52194
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chateaubriand, F. R. de
     gutenberg_agent_id: '52193'
     url: http://www.gutenberg.org/2009/agents/52193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62937#Viimeisen-Aabenserraagin-vaiheet
 gutenberg_issued: '2020-08-15'
 gutenberg_type: Text
 identifiers:
